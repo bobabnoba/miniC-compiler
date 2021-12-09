@@ -1,0 +1,5 @@
+//OPIS: konstanta
+int main() {
+	int a,4,b;
+	return 0;
+}
