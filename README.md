@@ -1,1 +1,1 @@
-# miniC-compiler
+# Kompajler za prošireni miniC jezik
